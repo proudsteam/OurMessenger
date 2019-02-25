@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">OurMessenger</string>
+    <string name="label_username">Enter the username</string>
+    <string name="label_password">Enter the password</string>
+    <string name="button_login">Log in</string>
+    <string name="label_forgot_pass">Forgot your password?</string>
 </resources>
